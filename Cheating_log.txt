@@ -1,0 +1,19 @@
+[2025-05-29 08:37:58] ALERT: Wajah hilang selama 3.0 detik!
+[2025-05-29 08:38:02] ALERT: Wajah hilang selama 3.0 detik!
+[2025-05-29 08:38:09] ALERT: 2 wajah terdeteksi!
+[2025-05-29 08:38:18] ALERT: 2 wajah terdeteksi!
+[2025-05-29 08:38:27] ALERT: 2 wajah terdeteksi!
+[2025-05-29 08:38:39] ALERT: Wajah hilang selama 3.0 detik!
+[2025-05-29 08:38:46] ALERT: Wajah hilang selama 3.0 detik!
+[2025-05-29 08:38:49] ALERT: Wajah hilang selama 3.1 detik!
+[2025-05-29 08:38:52] ALERT: Wajah hilang selama 3.1 detik!
+[2025-05-29 08:38:55] ALERT: Wajah hilang selama 3.0 detik!
+[2025-05-29 08:39:00] ALERT: Wajah hilang selama 3.1 detik!
+[2025-05-29 08:39:03] ALERT: Wajah hilang selama 3.1 detik!
+[2025-05-29 08:39:18] ALERT: Wajah hilang selama 3.0 detik!
+[2025-05-29 08:39:21] ALERT: Wajah hilang selama 3.1 detik!
+[2025-05-29 08:39:25] ALERT: Wajah hilang selama 3.0 detik!
+[2025-05-29 08:39:28] ALERT: Wajah hilang selama 3.1 detik!
+[2025-05-29 08:39:31] ALERT: Wajah hilang selama 3.1 detik!
+[2025-05-29 08:39:34] ALERT: Wajah hilang selama 3.0 detik!
+[2025-05-29 08:39:37] ALERT: Wajah hilang selama 3.1 detik!
